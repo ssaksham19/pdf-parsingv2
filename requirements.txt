@@ -1,2 +1,6 @@
-python-docx==0.8.10
-pyttsx3==2.9.0
+fdk>=0.1.36
+oci
+pandas
+openpyxl
+xlrd
+PyPDF2
